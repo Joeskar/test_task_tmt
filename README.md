@@ -2,7 +2,7 @@
 
 ### Описание проекта:
 
-To-do list телеграм бот написанный на aiogram
+To-do list телеграм бот написанный на библиотеке aiogram
 
 ### Инструменты разработки
 
@@ -21,8 +21,6 @@ To-do list телеграм бот написанный на aiogram
     git clone https://github.com/Joeskar/test_task_tmt.git
 
 ##### 3) Создать виртуальное окружение
-
-    cd inet_magaz
     
     python -m venv venv
 
